@@ -1,3 +1,3 @@
 # vsc-git
 
-this is banch master.
+this is banch cmn.
